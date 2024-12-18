@@ -3,7 +3,7 @@ public class Main {
     Basket<Integer, Double> b = new Basket<>();
     b.add(2.0);
     b.add(3.5);
-
+b.add(7.0);
 
 
     }
