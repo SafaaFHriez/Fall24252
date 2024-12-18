@@ -4,7 +4,7 @@ public class Main {
     b.add(2.0);
     b.add(3.5);
 
-        System.out.println(b);
+
 
     }
 }
